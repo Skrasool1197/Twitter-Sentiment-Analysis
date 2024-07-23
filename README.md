@@ -17,7 +17,7 @@ The RandomForestClassifier runs each decision tree in the forest with the data t
 The main benefits of the RandomForestClassifier are that it can handle regression and classification problems, is more accurate than a single decision tree, and is robust to outliers and missing values. Compared to more complex models like neural networks, it is also easier to tune and understand. It also automatically manages feature importance, which makes it helpful for feature selection.
 
 -  **Streamlit**
--  
+  
 Streamlit allows for the rapid development of web applications for machine learning and data science projects. With this interface, users can enter any tweet or comment, and the application will instantly provide a sentiment prediction. This integration of Streamlit ensures that the sentiment analysis process is not only efficient but also user-friendly, enabling individuals without a technical background to easily interact with and benefit from the machine learning model.
 ## Documentation
 
